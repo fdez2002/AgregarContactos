@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">AgregarContacto</string>
+    <string name="boton_agregar">AGREGAR CONTACTO</string>
+    <string name="boton_112">LLAMAR AL 112</string>
+
+    <string name="tv1">DATOS DEL NUEVO CONTACTO</string>
+    <string name="ed1_nombre">NOMBRE</string>
+    <string name="ed2_correo">CORREO</string>
+    <string name="ed3_numero">NUMERO</string>
+    <string name="button">Insertar contacto</string>
+
 </resources>
